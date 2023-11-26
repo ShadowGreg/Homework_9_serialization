@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using Homework;
+﻿using Homework;
 
 const string url = "https://my-json-server.typicode.com/ShadowGreg/JsonReqest/db";
 Console.WriteLine("App starting ...");
